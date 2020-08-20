@@ -1,0 +1,2 @@
+echo "I AM testING with merge and conflict in branch"
+echo "I doN'T know if it detects note in bash script, let US see"
