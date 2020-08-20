@@ -1,5 +1,7 @@
 # Creat a file that contains the Git log for this repository. Use grep to see which day of the week most of the commits occurred on.
 
+echo $(git log) > git_log.txt
+
 days=(Mon Tus Wed Thu Fri Sat Sun)
 echo "How many times the commits occrred on each week day:"
 
