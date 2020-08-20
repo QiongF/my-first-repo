@@ -1,6 +1,0 @@
-echo "I AM testING with merge and conflict in branch"
-echo "I doN'T know if it detects note in bash script, let US see"
-
-I am messing around and see if the merge and conflict will happen or not.
-
-Note: merge function doesn't detect content within bash script (*.sh files), so far it only detect txt files.

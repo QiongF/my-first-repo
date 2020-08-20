@@ -1,29 +1,22 @@
-# This is a large heading
+# Qiong 
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of Oslo, which is the captical of Norway.
 
-- This is
-- an unordered
-- list
+### Hobby
 
-1. This is
-2. an ordered
-3. list
+- I like reading, but in the past decade I rarely read books. More often I read eBooks, but now I seriously consider reading **real books** during lockdown.
+- Hiking. Norway is a great country for hiking, with amazing nature and cool weather.
+- Gardening. I just start gardening since lockdown in March, and I love watching plants, literally just watching them makes me happy already.
+- Baking bread, but not cakes. I try not to eat too much sugar as I was a researcher in UiO studying metabolism.
 
-Here is `some code` in the middle of a sentence.
+### Food
 
-```
-This is
-a block
-of code
-```
+1. I am a vegetarian, but knowing how to cook delicious meaty dishes although now I don't eat meat. 
+2. Tofu and soya products are amazing.
+3. Also trying to ferment tempeh at home, still optimizing conditions, wish me good luck.
+4. Fermentation is great, I was successfully with Szechuan pickles, sourdough bread, rice wine (maybe once?), and ginger beer is sooo good if you ignore all the afterwards farts XDDDD 
 
-Here is how you make [a link](https://www.wikipedia.org/).
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
 
