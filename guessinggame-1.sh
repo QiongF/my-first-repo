@@ -10,7 +10,7 @@ while true
 do
 	read response
 
-	if [[ $responese =~ [^0-9] ]]
+	if [[ $response =~ [^0-9] ]]
 	then
 		echo "Sorry it's not a number. Try again:"
 	elif [[ $response -gt $num_files ]]
